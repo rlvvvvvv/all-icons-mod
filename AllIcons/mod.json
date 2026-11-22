@@ -1,0 +1,29 @@
+{
+	"geode": "4.4.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "yourname.allicons",
+	"name": "All Icons",
+	"version": "v1.0.0",
+	"developer": "YourName",
+	"description": "Unlocks all icons, Color 1, Color 2 and glow colors.",
+	"tags": ["customization", "offline", "enhancement"],
+	"settings": {
+		"unlock-icons": {
+			"type": "bool",
+			"name": "Unlock Icons",
+			"description": "Unlock every icon, ship, ball, UFO, wave, robot, spider, swing, jetpack, trail, ship fire and death effect.",
+			"default": true
+		},
+		"unlock-colors": {
+			"type": "bool",
+			"name": "Unlock Colors",
+			"description": "Unlock every Color 1, Color 2 and glow color.",
+			"default": true
+		}
+	}
+}
